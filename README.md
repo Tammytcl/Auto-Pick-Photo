@@ -23,8 +23,11 @@ By allowing side-by-side visualization and distance-based comparison of `Origina
 ---
 
 ## 📸 Screenshots
+Below is an example of the comparison interface in action:
 
+![Example Screenshot](assets/example1.jpg)
 
+![Example Screenshot](assets/example2.jpg)
 ## 🚀 Getting Started
 ```bash
 python autopicker+pyqt.py

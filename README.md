@@ -24,7 +24,7 @@ By allowing side-by-side visualization and distance-based comparison of `Origina
 
 ## 📸 Screenshots
 Below is an example of the interface in action:
-
+git config --global --unset https.proxy
 ![Example Screenshot](assets/example1.jpg)
 
 ![Example Screenshot](assets/example2.jpg)

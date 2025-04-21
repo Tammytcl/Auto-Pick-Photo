@@ -23,7 +23,7 @@ By allowing side-by-side visualization and distance-based comparison of `Origina
 ---
 
 ## 📸 Screenshots
-Below is an example of the comparison interface in action:
+Below is an example of the interface in action:
 
 ![Example Screenshot](assets/example1.jpg)
 

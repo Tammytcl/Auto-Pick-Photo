@@ -25,9 +25,9 @@ By allowing side-by-side visualization and distance-based comparison of `Origina
 ## 📸 Screenshots
 Below is an example of the interface in action:
 
-![Example Screenshot](assets/example1.jpg)
+![Example Screenshot](https://github.com/Tammytcl/FLUX-Image-Selection-Tool/blob/38e164259b71e648124f34a1ed35ce830fe716bc/asserts/example1.jpg)
 
-![Example Screenshot](assets/example2.jpg)
+![Example Screenshot](https://github.com/Tammytcl/FLUX-Image-Selection-Tool/blob/38e164259b71e648124f34a1ed35ce830fe716bc/asserts/example2.jpg)
 ## 🚀 Getting Started
 ```bash
 python autopicker+pyqt.py
